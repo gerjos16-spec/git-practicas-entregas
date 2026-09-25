@@ -11,3 +11,4 @@ gerson@MacBook-Air-de-Eric git-practicas-entregas % git log --oneline
 79dcc69 (HEAD -> main) Crear estructura inicial del proyecto
 124546d primer commit de la practica
 gerson@MacBook-Air-de-Eric git-practicas-entregas % 
+hoy
