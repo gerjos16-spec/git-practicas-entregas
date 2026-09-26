@@ -18,3 +18,12 @@ aeff87b (origin/main, origin/HEAD, main) commit nuevo
 f62d569 este commit lo hago de mas para ver si puedo subirlo
 79dcc69 Crear estructura inicial del proyecto
 124546d primer commit de la practica
+
+## Historial de la práctica
+4da6fdb (HEAD -> feature/contacto, origin/main, origin/HEAD, main) Cambio desde la web
+656b481 (origin/feature/contacto) añadir pagina de contacto
+5e28a7b añadir pagina de contacto
+aeff87b commit nuevo
+f62d569 este commit lo hago de mas para ver si puedo subirlo
+79dcc69 Crear estructura inicial del proyecto
+124546d primer commit de la practica
