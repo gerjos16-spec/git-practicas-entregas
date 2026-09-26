@@ -12,3 +12,9 @@ gerson@MacBook-Air-de-Eric git-practicas-entregas % git log --oneline
 124546d primer commit de la practica
 gerson@MacBook-Air-de-Eric git-practicas-entregas % 
 hoy
+
+5e28a7b (HEAD -> feature/contacto) añadir pagina de contacto
+aeff87b (origin/main, origin/HEAD, main) commit nuevo
+f62d569 este commit lo hago de mas para ver si puedo subirlo
+79dcc69 Crear estructura inicial del proyecto
+124546d primer commit de la practica
